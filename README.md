@@ -106,3 +106,11 @@
 </div>
 
 <h2 align="center">Подмодель Sales plan</h2>
+
+Импорт LGD-файла заменяет нам ETL-процесс, который происходит на этапах 1-2 схемы потока данных. В реальном сценарии тут скорее всего была бы подмодель с ETL-процессом.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/replacing-submodel-5.png"/>
+</div>
+
+<h2 align="center">Замена подмодели с ETL-процессом</h2>
