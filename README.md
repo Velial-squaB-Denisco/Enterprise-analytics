@@ -88,3 +88,14 @@
 <div>
 <img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/packet-2.png"/>
 </div>
+
+<h2 align="center">Пакет</h2>
+
+В сценарии находится подмодель для очистки КХД. Можете запустить ее, если запутаетесь и захотите сбросить вашу базу к исходному состоянию, и проделать все операции с чистого листа.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/cleaning-dwh-3.png"/>
+</div>
+
+<h2 align="center">Очистка КХД</h2>
+
