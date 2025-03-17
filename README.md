@@ -188,3 +188,12 @@
 </div>
 
 <h2 align="center">Замена подмодели с ETL-процессом</h2>
+
+Этот компонент — часть библиотеки Clickhouse Kit.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/clickhouse-kit.png"/>
+</div>
+
+<h2 align="center">Clickhouse Kit</h2>
+
