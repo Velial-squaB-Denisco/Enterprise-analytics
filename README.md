@@ -403,3 +403,12 @@
 
 <h2 align="center">Обновление данных</h2>
 
+### Проверяем результат работы
+Добавьте в сценарий импорт из базы данных на основе готового подключения Clickhouse ADWH.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/import-database-25.png"/>
+</div>
+
+<h2 align="center">Импорт из базы данных</h2>
+
