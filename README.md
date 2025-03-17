@@ -378,3 +378,12 @@
 
 <h2 align="center">Параметры полей</h2>
 
+1. Таким образом убедитесь, что изменение таблицы не потребовало от вас перенастройки сценария;
+2. «CH: Создать / адаптировать MT таблицу» на сообщение о том, что выполнен запрос на изменение принимающей таблицы.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/publication-table-21.png"/>
+</div>
+
+<h2 align="center">Публикация таблицы</h2>
+
