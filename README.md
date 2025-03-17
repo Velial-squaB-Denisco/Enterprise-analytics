@@ -1,3 +1,7 @@
+<div>
+<img src="https://www.syssoft.ru/upload/iblock/5be/po7970wzyp58ws9j9ikmgiznih9m0sz2.png"/>
+</div>
+
 ## 1.Наполняем core-уровень КХД 
 ---
 
@@ -51,6 +55,7 @@
 <div>
 <img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/day-2.png"/>
 </div>
+
 Разберем выгрузку очищенных данных на Core-уровень КХД. Сюда сохраняются данные, которые потом используются для построения витрин и моделей на уровне Data Mart.
 
 КХД состоит из нескольких условных уровней:
