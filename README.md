@@ -360,3 +360,11 @@
 
 <h2 align="center">Автосинхронизация</h2>
 
+Финальный этап — публикация таблицы. Этот компонент мгновенно переносит таблицу из текущего положения в новое («Старая БД».«Старая таблица» > «Новая БД. Новая таблица»).
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/publication-table-21.png"/>
+</div>
+
+<h2 align="center">Публикация таблицы</h2>
+
