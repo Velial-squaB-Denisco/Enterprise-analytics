@@ -387,3 +387,9 @@
 
 <h2 align="center">Публикация таблицы</h2>
 
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/execution-request-23.png"/>
+</div>
+
+<h2 align="center">Выполнение запроса</h2>
+
