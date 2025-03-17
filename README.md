@@ -234,3 +234,11 @@
 </div>
 
 <h2 align="center">Результаты аудита</h2>
+
+Откроем второй порт переменных на входе в аудит.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/table-audit-9%20%281%29.png"/>
+</div>
+
+<h2 align="center">Второй порт переменных</h2>
