@@ -420,3 +420,8 @@
 
 <h2 align="center">Настройка узла</h2>
 
+В производных компонентах, в разделе Data_Preparation_Kit, добавьте в сценарий компонент «3.1. Список таблиц (мета-справочник)».
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/adding-component-27.png"/>
+</div>
