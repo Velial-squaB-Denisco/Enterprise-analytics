@@ -274,3 +274,11 @@
 
 <h2 align="center">Узел сохранения метаданных</h2>
 
+Чтобы данные могли быть выгружены в базу, в ней должна быть создана принимающая таблица. Компонент «CH: Создать / адаптировать MT таблицу» автоматически создает таблицу на основе полей данных.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/receiving-table-15.png"/>
+</div>
+
+<h2 align="center">Принимающая таблица</h2>
+
