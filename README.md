@@ -1,4 +1,4 @@
-### 1.Наполняем core-уровень КХД 
+## 1.Наполняем core-уровень КХД 
 
 --- 
 
@@ -31,4 +31,12 @@
 <img src="https://loginom.ru/sites/default/files/global-files/textpage/2025/data-model-collection.svg"/>
 </div>
 
+<h2 align="center">Сбор модели данных</h2>
 
+### С чем будем работать
+
+Для наполнения КХД мы приготовили набор таблиц следующей структуры (в таком виде они будут лежать на Core-уровне, до организации в витрину или «Звезду»).
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-files/textpage/2025/table-structure.svg"/>
+</div>
