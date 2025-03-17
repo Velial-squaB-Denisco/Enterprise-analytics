@@ -114,3 +114,15 @@
 </div>
 
 <h2 align="center">Замена подмодели с ETL-процессом</h2>
+
+Разберем, как должна выглядеть правильно подготовленная таблица для core-уровня КХД.
+
+## Как правильно подготовить данные для Core-уровня КХД
+
+Откроем предпросмотр данных из LGD-файла плана продаж.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/data-preview-6.png"/>
+</div>
+
+<h2 align="center">Предпросмотр данных</h2>
