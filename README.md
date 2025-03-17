@@ -67,3 +67,11 @@
 ### Пример сценария для выгрузки данных в Core-уровень КХД
 
 Откройте сценарий второго дня в папке M3\Data Monetization Pack\Examples. Скачайте пакет в папку.
+
+<h2 align="center">
+<a href="https://downloads.loginom.ru/day2-saving-data-core-level.lgp" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Скачать файл</a>
+</h2>
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/file-lgp-1.png"/>
+</div>
