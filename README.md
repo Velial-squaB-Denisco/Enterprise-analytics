@@ -412,3 +412,11 @@
 
 <h2 align="center">Импорт из базы данных</h2>
 
+В настройках узла импорта подтвердите наличие девяти таблиц во временной и рабочей core-базах.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/node-setup-26.png"/>
+</div>
+
+<h2 align="center">Настройка узла</h2>
+
