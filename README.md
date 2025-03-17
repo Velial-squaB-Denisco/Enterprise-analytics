@@ -208,3 +208,10 @@
 <h2 align="center">Подмодель</h2>
 
 Активируем компонент «Аудит таблицы». Он используется для проверки, все ли учтено для сохранения таблицы в core-уровень.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/table-audit-9.png"/>
+</div>
+
+<h2 align="center">Компонент «Аудит таблицы</h2>
+
