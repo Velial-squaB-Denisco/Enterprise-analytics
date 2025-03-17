@@ -99,3 +99,10 @@
 
 <h2 align="center">Очистка КХД</h2>
 
+Обычно в ETL-сценариях для КХД подготовка каждой таблицы происходит внутри ее подмодели. Зайдем в подмодель Sales plan, чтобы увидеть детали процесса.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/submodel-sp-4.png"/>
+</div>
+
+<h2 align="center">Подмодель Sales plan</h2>
