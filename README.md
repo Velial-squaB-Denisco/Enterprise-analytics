@@ -69,9 +69,22 @@
 Откройте сценарий второго дня в папке M3\Data Monetization Pack\Examples. Скачайте пакет в папку.
 
 <h2 align="center">
-<a href="https://downloads.loginom.ru/day2-saving-data-core-level.lgp" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Скачать файл</a>
+<a href="https://downloads.loginom.ru/day2-saving-data-core-level.lgp" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Скачать файл LGP</a>
 </h2>
 
 <div>
 <img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/file-lgp-1.png"/>
+</div>
+
+<h2 align="center">LGP-файл</h2>
+
+Откройте пакет.
+
+Для справки: когда вы создаете сценарий выгрузки данных в КХД, в вашем пакете должны находиться ссылки на 3 набора компонентов:
+ - Clickhouse Kit — для взаимодействия с СУБД Clickhouse;
+  - Data Preparation Kit — для быстрого просмотра состояния хранилища;
+  - Data Control Kit — для аудита данных и оповещениях об инцидентах.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/packet-2.png"/>
 </div>
