@@ -1115,3 +1115,6 @@
 <img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/connection-type_2.png"/>
 </div>
 
+<h2 align="center">Тип подключения</h2>
+
+Укажите ручной вариант подключения и заполните реквизиты в соответствии с вашими данными. Обязательно проверьте подключение через кнопку слева внизу — должна загореться зеленая галочка.
