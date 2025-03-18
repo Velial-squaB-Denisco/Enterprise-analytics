@@ -1000,3 +1000,11 @@
 
 <h2 align="center">Выполнение компонента</h2>
 
+Второй порт данных содержит шаблоны формул показателей для разных BI-систем. Как их использовать и почему они такие, какие есть — разберем в следующем занятии.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/indicator-templates_14.png"/>
+</div>
+
+<h2 align="center">Шаблоны показателей</h2>
+
