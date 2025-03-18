@@ -904,3 +904,11 @@
 
 <h2 align="center">Генерация моделей</h2>
 
+Перейдите в раздел «Ссылки» и добавьте ссылки на пакеты Clickhouse_Kit, Data_Preparation_Kit.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/package-links-2.png"/>
+</div>
+
+<h2 align="center">Ссылки на пакеты Clickhouse_Kit и Data_Preparation_Kit</h2>
+
