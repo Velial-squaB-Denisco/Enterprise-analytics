@@ -1214,3 +1214,14 @@
 
 <h2 align="center">Создание графика</h2>
 
+Создайте линейный чарт со следующими данными:
+
+ - Ось X — МесяцГод_canonical_date_D;
+ - Ось Y — Выручка и План выручки.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/line-chart_11.png"/>
+</div>
+
+<h2 align="center">Линейный чарт</h2>
+
