@@ -536,3 +536,13 @@
 
 <h2 align="center">Проверка значения в поле Amount_plan</h2>
 
+Если требуется создать несколько проверок, достаточно клонировать поле проверки, задать ему новую метку и прописать новое условие.
+
+Давайте создадим вторую проверку с условием Amount_plan <= 500.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/second-check-5.png"/>
+</div>
+
+<h2 align="center">Вторая проверка</h2>
+
