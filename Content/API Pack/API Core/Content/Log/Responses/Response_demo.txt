@@ -1,0 +1,8 @@
+{
+"VAR1": {"subparam1":true,"subparam2":42},
+"VAR2": 100,
+"VAR3": 192.14,
+"VAR4": 1721052383,
+"VAR5": false,
+"VAR6": "Random text"
+}

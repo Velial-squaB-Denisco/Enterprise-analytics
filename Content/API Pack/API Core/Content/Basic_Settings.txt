@@ -1,0 +1,7 @@
+﻿__Settings__
+__Название интеграции
+Integration_name=Demo
+
+__Адрес сервиса
+Service_URL=https://Demo/
+

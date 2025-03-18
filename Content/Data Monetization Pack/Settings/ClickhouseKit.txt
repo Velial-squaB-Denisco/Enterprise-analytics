@@ -1,0 +1,28 @@
+﻿// Название БД, хранящей очищенные данные для построения моделей
+vData_storage_DB=ADWH_storage
+
+//Префикс БД, содержащих таблицы доменных моделей
+vDomain_DB_Prefix=dm_
+
+//Префикс таблиц-справочников модели
+vDomain_Dict_Prefix=dict_
+
+//Префикс центральных таблиц модели
+vDomain_Core_Prefix=core_
+
+//Сопоставление типов данных Loginom - Clickhouse
+Boolean=Bool
+DateTime=DateTime64(3)
+Float=Float64
+Integer=Int64
+String=String
+Variant=Variant(Bool,DateTime64(3),Float64,Int64,String)
+
+
+//Порядок типов полей для order by tuple() при создании таблицы с включенным авто-порядком по частотности
+Boolean_Ord=5
+DateTime_Ord=2
+Float_Ord=4
+Integer_Ord=3
+String_Ord=1
+Variant_Ord=6

@@ -1,0 +1,7 @@
+__Settings__
+__Адрес подключения
+Service_URL=https://test.ru
+
+__Токен
+Token=
+

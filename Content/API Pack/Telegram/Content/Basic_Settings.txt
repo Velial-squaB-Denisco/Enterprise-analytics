@@ -1,0 +1,7 @@
+__Settings__
+__Название интеграции
+Integration_name=Telegram
+
+__Адрес сервиса
+Service_URL=https://api.telegram.org/bot1234567890:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/
+
