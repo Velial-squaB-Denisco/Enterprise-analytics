@@ -585,3 +585,11 @@
 
 <h2 align="center">Результат проверки</h2>  
 
+Теперь статистика по дубликатам тоже формируется в сводке.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/statistics-duplicates-10.png"/>
+</div>
+
+<h2 align="center">Статистика по дубликатам</h2>
+
