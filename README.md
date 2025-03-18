@@ -614,3 +614,11 @@
 
 <h2 align="center">Компонент «Отчет DQ»</h2>
 
+​​​​​Их можно использовать для быстрого просмотра и построения специфического отчета.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/quick-view-13.png"/>
+</div>
+
+<h2 align="center">Быстрый просмотр</h2>
+
