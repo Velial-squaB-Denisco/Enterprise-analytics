@@ -514,3 +514,11 @@
 
 <h2 align="center">Проверка</h2>
 
+Внутри нас ждет готовая схема.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/ready-made-scheme-2.png"/>
+</div>
+
+<h2 align="center">Готовая схема</h2>
+
