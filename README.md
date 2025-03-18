@@ -1034,3 +1034,11 @@
 
 <h2 align="center">Результат</h2>
 
+Используйте ваши навыки работы в Loginom, чтобы создать Визуализатор, на котором будет показан план и факт по выручке в разрезе товарных групп. Экспериментируйте с моделью на ваше усмотрение (Визуализатор Куб)!
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/visualizer_11.png"/>
+</div>
+
+<h2 align="center">Визуализатор</h2>
+
