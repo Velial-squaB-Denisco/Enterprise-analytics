@@ -1206,3 +1206,11 @@
 
 <h2 align="center">Сохранение изменений</h2>
 
+Теперь создадим график с этими показателями.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/creating-graph_10.png"/>
+</div>
+
+<h2 align="center">Создание графика</h2>
+
