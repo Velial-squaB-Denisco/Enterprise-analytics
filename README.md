@@ -569,3 +569,11 @@
 
 <h2 align="center">Узел «Дубликаты и противоречия»</h2>
 
+Давайте ради теста сделаем проверку дубликатов в поле Key_ERP_User_Sales_ID, указав его как входное поле.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/test-8.png"/>
+</div>
+
+<h2 align="center">Тест</h2>  
+
