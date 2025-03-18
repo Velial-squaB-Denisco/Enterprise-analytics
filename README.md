@@ -740,3 +740,15 @@
 --- 
 ## Материал
 ---
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/day4.png"/>
+</div>
+
+На втором занятии мы сформировали core-уровень КХД. Напомню, там сейчас находится девять таблиц, которые связаны следующим образом.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-files/textpage/2025/core-level.svg"/>
+</div>
+
+<h2 align="center">Сравнительная схема работы с КХД и без него</h2>
