@@ -983,3 +983,10 @@
 С помощью фильтров до и после компонента «CH: Календарь модели» вы можете определить, какие именно поля календаря, для каких именно полей дат будут созданы в модели.
 
 Шаблоны формул календаря лежат в файле: Марафон 3\Data Monetization Pack\Settings\ClickhouseKit_cal.txt. Значение $1 в шаблоне будет заменено на соответствующее поле даты при генерации.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/calendaformula-templates_13.png"/>
+</div>
+
+<h2 align="center">Шаблоны формул календаря</h2>
+
