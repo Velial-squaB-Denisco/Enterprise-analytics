@@ -476,3 +476,6 @@
 <div>
 <img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/adding-component-27.png"/>
 </div>
+
+## 2.Мониторинг никогда не спит
+
