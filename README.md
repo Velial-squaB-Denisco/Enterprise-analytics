@@ -646,3 +646,11 @@
 
 <h2 align="center">Тестовая ссылка</h2>
 
+В результате к вашему сообщению будет прикреплена ссылка, отправляющая вас на соответствующие визуализаторы.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/notification-16.png"/>
+</div>
+
+<h2 align="center">Уведомление в Telegram</h2>
+
