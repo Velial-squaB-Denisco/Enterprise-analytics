@@ -1185,3 +1185,16 @@
 <img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/adding-indicators_7.png"/>
 </div>
 
+<h2 align="center">Добавление показателей</h2>
+
+Создайте 2 поля:
+
+ - «Выручка», взяв за основу шаблон выражения «Выручка, дата продажи».
+ - «План выручки», взяв за основу шаблон выражения «План выручки, месяц плана».
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/creating-fields-8.png"/>
+</div>
+
+<h2 align="center">Создание полей</h2>
+
