@@ -640,3 +640,9 @@
 
 Вы можете прописать у себя тестовую ссылку, вроде https://ya.ru.
 
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/test-link-15.png"/>
+</div>
+
+<h2 align="center">Тестовая ссылка</h2>
+
