@@ -792,3 +792,18 @@
 <div>
 <img src="https://loginom.ru/sites/default/files/global-files/textpage/2025/sales-plan.svg"/>
 </div>
+
+Шаги показаны не с точки зрения очередности операций, а как основным этапы формирования. На уровне SQL-запроса, это конечно же, делается одним запросом.
+
+#### Шаг 1 — через Union собираем поля связей и показателей в одну таблицу.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-files/textpage/2025/sales-plan.svg"/>
+</div>
+
+#### Шаг 2 — создаем поле канонической даты: в нее записываются даты из полей, чьи данные должны анализироваться на одной временной оси.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-files/textpage/2025/step-2.svg"/>
+</div>
+
