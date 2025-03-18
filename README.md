@@ -1026,3 +1026,11 @@
 
 <h2 align="center">Импорт из БД</h2>
 
+Результат:
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/result_10.png"/>
+</div>
+
+<h2 align="center">Результат</h2>
+
