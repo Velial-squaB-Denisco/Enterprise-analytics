@@ -1107,3 +1107,5 @@
 <img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/creating-connections_1.png"/>
 </div>
 
+<h2 align="center">Создание подключений</h2>
+
