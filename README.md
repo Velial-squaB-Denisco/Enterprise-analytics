@@ -1198,3 +1198,11 @@
 
 <h2 align="center">Создание полей</h2>
 
+​​​​​​Сохраните ваш датасет:
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/saving-changes_9.png"/>
+</div>
+
+<h2 align="center">Сохранение изменений</h2>
+
