@@ -1109,3 +1109,9 @@
 
 <h2 align="center">Создание подключений</h2>
 
+Выберите тип подключения Clickhouse.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/connection-type_2.png"/>
+</div>
+
