@@ -912,3 +912,11 @@
 
 <h2 align="center">Ссылки на пакеты Clickhouse_Kit и Data_Preparation_Kit</h2>
 
+Добавьте в сценарий компонент «3. Структура хранилища» из Data_Preparation_Kit и активируйте его. Этот компонент показывает на первом выходе структуру прямых связей таблиц core-уровня КХД. А на втором — рекомендованные действия по процессу восстановления связей.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/component_3.png"/>
+</div>
+
+<h2 align="center">Компонент «3. Структура хранилища»</h2>
+
