@@ -1125,3 +1125,9 @@
 
 <h2 align="center">Ручной вариант подключения</h2>
 
+Теперь нужно создать датасет на основе нашего подключения.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/creating-dataset_4.png"/>
+</div>
+
