@@ -1008,3 +1008,11 @@
 
 <h2 align="center">Шаблоны показателей</h2>
 
+В выходных переменных содержатся шаблоны запросов для быстрой подстановки в загрузку данных.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/request-templates_8.png"/>
+</div>
+
+<h2 align="center">Шаблоны запросов</h2>
+
