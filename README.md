@@ -1016,3 +1016,13 @@
 
 <h2 align="center">Шаблоны запросов</h2>
 
+Добавьте ссылку на пакет Clickhouse Connections.lgp, который расположен в M3\Libs\Data Monetization Pack\Settings\Clickhouse Kit, чтобы у вас появилось настроенное подключение к Clickhouse.
+
+Настройте импорт из БД, использовав шаблон запроса SELECT AS из генератора витрины.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/import-database_9.png"/>
+</div>
+
+<h2 align="center">Импорт из БД</h2>
+
