@@ -506,3 +506,11 @@
 
 <h2 align="center">Производный узел</h2>
 
+Но для начала задайте на входном порту переменных название проверки, которую мы будем проводить.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/check-3.png"/>
+</div>
+
+<h2 align="center">Проверка</h2>
+
