@@ -1177,3 +1177,11 @@
 <img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/indicator-templates-6.png"/>
 </div>
 
+<h2 align="center">Шаблоны показателей</h2>
+
+Можно использовать их как готовые формулы или модернизировать на свое усмотрение. Добавим пару показателей в датасет:
+
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/adding-indicators_7.png"/>
+</div>
+
