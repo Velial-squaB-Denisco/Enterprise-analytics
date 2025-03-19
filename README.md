@@ -1365,3 +1365,12 @@
 
 <h2 align="center">Компоненты Clickhouse Kit</h2>
 
+#### Мониторинг работы
+На сервере обычно работает не один пользователь. Для того, чтобы увидеть, кто в настоящий момент находится на сервере, и какие пакеты у него открыты имеется диспетчер сессий.
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/session-manager.png"/>
+</div>
+
+<h2 align="center">Диспетчер сессий в Loginom</h2>
+
