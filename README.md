@@ -1296,3 +1296,11 @@
 
 <h2 align="center">Администрирование в Loginom</h2>
 
+Пользователи могут быть добавлены как локально (просто создаем пользователя системы), так и через LDAP или OpenID (для взаимодействия с каталогами пользователей в организации).
+
+<div>
+<img src="https://loginom.ru/sites/default/files/global-images/textpage/2025/adding-users.png"/>
+</div>
+
+<h2 align="center">Добавление пользователей в Loginom</h2>
+
