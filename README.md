@@ -1396,6 +1396,5 @@
 - Ошибки в пользовательских сценариях.
 Список событий в логах постоянно расширяется.
 
-<video width="640" height="360" controls>
-    <source src="https://vkvideo.ru/video-105549551_456239475?list=ln-7ecVf0rnTfUieI0pJU&ref_domain=loginom.ru" type="video/mp4">
-</video>
+[Смотреть видео](https://vkvideo.ru/video-105549551_456239475?list=ln-7ecVf0rnTfUieI0pJU&ref_domain=loginom.ru)
+
