@@ -1290,3 +1290,9 @@
 #### Аутентификация и авторизация
 Основной функционал управления безопасностью находится в разделе Администрирование в серверных версиях Loginom.
 
+<div>
+<img src="https://loginom.ru/sites/default/files/styles/image792/public/global-images/textpage/2025/administration.png"/>
+</div>
+
+<h2 align="center">Администрирование в Loginom</h2>
+
